@@ -17,7 +17,8 @@ Cleans and formats data to ensure consistency and accuracy.
 EDA.sql: Performs Exploratory Data Analysis (EDA) to uncover trends.
 
 rfm_segmentation.sql: Implements RFM Segmentation to classify customers based on their purchase behavior.
-## 🛠 Database Setup
+## 🛠 Database Setup 
+Used MySQL Workbench 
 
 🏦 1. Create Database :
 CREATE DATABASE superstore;

@@ -44,6 +44,7 @@ CREATE TABLE `Superstore Sales Data - Sheet1`
 📊 2. Exploratory Data Analysis (EDA) :
 
 The EDA process involves extracting insights and identifying trends in the sales data. Below are the key analyses performed:
+
 📌 1. Distinct Values
 ✔ Identifies unique values in categorical fields (e.g., Region,Manager).
 

@@ -136,4 +136,6 @@ Monetary (M): Total spending per customer.
 ✔ Improved marketing, retention, and profitability
 
 ## 🖼️ Visual Results : 
+Customer Segmentation : 
+![Image](https://github.com/user-attachments/assets/e75da8aa-2d31-4bf0-acb4-371939c96b64)
 

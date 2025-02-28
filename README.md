@@ -134,3 +134,6 @@ Monetary (M): Total spending per customer.
 
 📊 Business Impact
 ✔ Improved marketing, retention, and profitability
+
+## 🖼️ Visual Results : 
+

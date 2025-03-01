@@ -75,6 +75,7 @@ SELECT
         ELSE 'Others'
     END AS customer_segment
 FROM rfm_scores;
+![Image](https://github.com/user-attachments/assets/e75da8aa-2d31-4bf0-acb4-371939c96b64)
 
 
 

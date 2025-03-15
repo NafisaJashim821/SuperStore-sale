@@ -135,6 +135,13 @@ Monetary (M): Total spending per customer.
 📊 Business Impact
 ✔ Improved marketing, retention, and profitability
 
+## 🏆 Regional Sales in Descending Order  
+```sql
+SELECT `Region`, ROUND(SUM(Sales), 2) AS Total_Sales
+FROM sales
+GROUP BY `Region`
+ORDER BY Total_Sales DESC;
+
 ## 🖼️ Visual Results : 
 Customer Segmentation : 
 ![Image](https://github.com/user-attachments/assets/e75da8aa-2d31-4bf0-acb4-371939c96b64)
